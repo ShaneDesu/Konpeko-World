@@ -1,0 +1,2 @@
+# Konpeko-World
+Educational Purposes
